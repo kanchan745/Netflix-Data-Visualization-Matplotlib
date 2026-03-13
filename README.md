@@ -35,7 +35,7 @@ Through this project I learned how to:
 * Create different types of charts using Matplotlib
 * Understand how data visualization helps explain data more clearly
 
-*This project was created as part of my learning and practice in Python and Data Visualization.
+This project was created as part of my learning and practice in Python and Data Visualization.
 
 **Kanchan Shakya**
 
